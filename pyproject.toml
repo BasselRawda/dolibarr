@@ -4,6 +4,7 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "rte-inv-manager"
+version = "0.1.0"
 
 [tool.codespell]
 # The configuration must be kept here to ensure that
