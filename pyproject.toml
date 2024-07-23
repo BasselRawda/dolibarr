@@ -2,6 +2,9 @@
 requires = ["setuptools>=61.2"]
 build-backend = "setuptools.build_meta"
 
+[project]
+name = "rte-inv-manager"
+
 [tool.codespell]
 # The configuration must be kept here to ensure that
 # `codespell` can be run as a standalone program from the CLI
